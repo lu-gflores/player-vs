@@ -8,9 +8,12 @@ export default function Layout({ title, keywords, description, children }) {
                 <meta name='description' content={description} />
                 <meta name='keywords' content={keywords} />
             </Head>
+            {children}
         </div>
     )
 }
+
+
 Layout.defaultProps = {
     title: 'PlayerVS | Find Your Next ESport Tournament',
     description: "Search and Compete In Esport Tournaments",
