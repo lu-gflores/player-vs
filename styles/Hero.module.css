@@ -1,0 +1,15 @@
+.hero {
+    height: 350px;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url('/images/hero-image.jpg') no-repeat center center;
+    position: relative;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.hero h1 {
+    font-size: 45px;
+    margin-bottom: 0;
+}
