@@ -1,0 +1,37 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "name": "Virtual Virtua Fighter York County Tourney",
+            "slug": "Virtual-virtua-fighter-york-county-tourney",
+            "venue": "Youtube/Zoom",
+            "address" : "Online",
+            "date": "July 15, 2021",
+            "time": "7:00 PM EST",
+            "description": "Join us and compete in Virtua Fighter 5 Ultimate Showdown, the recently enchanced remake of the 2006 original game.",
+            "image": "/images/stock/sample2.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Tamba Bay SMASH BROS. E-tourney",
+            "slug": "tamba-bay-smash-bros-e-tourney",
+            "venue": "Youtube/Zoom",
+            "address" : "Online",
+            "date": "July 18, 2021",
+            "time": "8:30 PM EST",
+            "description": "Join us virtually or locally in our Tamba Bay Smash Bros tournament. All players around the country are welcome!",
+            "image": "/images/stock/sample1.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Tekken 7 Charlotte Tournament",
+            "slug": "tekken-7-charlotte-tournament",
+            "venue": "Twitch",
+            "address" : "Online",
+            "date": "July 26, 2021",
+            "time": "5:30 PM EST",
+            "description": "Compete and earn the top spot in our Tekken 7 Tournament! We will be hosting this tournament online, please register via link!",
+            "image": "/images/stock/sample3.jpg"
+        }
+    ]
+}
