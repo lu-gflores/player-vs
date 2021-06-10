@@ -7,3 +7,11 @@ export default function Tournaments() {
         </Layout>
     )
 }
+
+const res = await fetch(`${API_URL}/api/events`)
+const events = await res.json()
+
+return {
+    props: { events },
+    revalidate: 1
+}
